@@ -141,42 +141,54 @@ Biblioteca virtual educativa orientada a la asignatura Seguridad de Base de Dato
         <span class="categoria">Introducción</span>
         <h3>Fundamentos de Seguridad</h3>
         <p>Conceptos básicos sobre protección y seguridad en bases de datos.</p>
-        <button>Ver Recurso</button>
+        <a href="https://dev.mysql.com/doc/refman/8.0/en/security.html" target="_blank">
+          <button>Ver Recurso</button>
+        </a>
       </div>
 
       <div class="card">
         <span class="categoria">Control de Acceso</span>
         <h3>Usuarios y Privilegios</h3>
         <p>Administración de roles, permisos y control de acceso en MySQL.</p>
-        <button>Ver Recurso</button>
+        <a href="https://dev.mysql.com/doc/refman/8.0/en/create-user.html" target="_blank">
+          <button>Ver Recurso</button>
+        </a>
       </div>
 
       <div class="card">
         <span class="categoria">Ciberseguridad</span>
         <h3>Encriptación de Datos</h3>
         <p>Técnicas de cifrado para proteger información sensible.</p>
-        <button>Ver Recurso</button>
+        <a href="https://dev.mysql.com/doc/refman/8.0/en/encryption-functions.html" target="_blank">
+          <button>Ver Recurso</button>
+        </a>
       </div>
 
       <div class="card">
         <span class="categoria">Protección</span>
         <h3>Auditoría y Hardening</h3>
         <p>Fortalecimiento y monitoreo de servidores y bases de datos.</p>
-        <button>Ver Recurso</button>
+        <a href="https://dev.mysql.com/doc/refman/8.0/en/security-guidelines.html" target="_blank">
+          <button>Ver Recurso</button>
+        </a>
       </div>
 
       <div class="card">
         <span class="categoria">Respaldo</span>
         <h3>Backup y Recuperación</h3>
         <p>Estrategias de respaldo y recuperación ante fallos.</p>
-        <button>Ver Recurso</button>
+        <a href="https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html" target="_blank">
+          <button>Ver Recurso</button>
+        </a>
       </div>
 
       <div class="card">
         <span class="categoria">Amenazas</span>
         <h3>SQL Injection</h3>
         <p>Prevención de ataques y vulnerabilidades SQL.</p>
-        <button>Ver Recurso</button>
+        <a href="https://owasp.org/www-community/attacks/SQL_Injection" target="_blank">
+          <button>Ver Recurso</button>
+        </a>
       </div>
 
     </div>
